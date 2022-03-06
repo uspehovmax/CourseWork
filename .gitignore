@@ -1,0 +1,9 @@
+.gitignore
+# будут игнорироваться все файлы и каталоги Thumbs.db
+Thumbs.db
+# будут игнорироваться все файлы и каталоги .DS_Store
+.DS_Store
+#
+*_old
+#
+*_backup
