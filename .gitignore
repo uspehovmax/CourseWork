@@ -7,3 +7,5 @@ Thumbs.db
 *_old
 #
 *_backup
+# папка .idea
+.idea/
